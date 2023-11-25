@@ -144,8 +144,25 @@ hr{
 .img-stu{
     width: 220px;
     height: auto;
-}
-.student-off{
-    margin-left: 50px;
+	float: left;
+	margin-left: 50px;
     margin-top: 50px;
+	
+}
+
+.student-i{
+	float: left;
+	margin-top:80px;
+	margin-left:55px;
+
+}
+.student{
+	float: left;
+	margin-top:12px;
+	margin-left:55px;
+
+}
+#span1{
+	color: rgb(85, 4, 139);
+	font-weight: bolder;
 }
